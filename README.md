@@ -36,10 +36,12 @@ Getting Started
 Installation
  1. Clone the repository:    
            ```bash    
-              git clone https://github.com/vinay1500/Resume-Website.git    ```  
+              git clone https://github.com/vinay1500/Resume-Website.git    ``` 
+              
  2. Navigate to the project directory:    
            ```bash    
-              cd Resume-Website    ```  
+              cd Resume-Website    ```
+    
  3. Set up the environment:    
        - Ensure you have Python installed. If not, download and install it from the official website.   
        - Install necessary dependencies (if any):      
@@ -49,8 +51,10 @@ Installation
 Usage
  1. Run the application:   
        ```bash    python app.py    ```  
+       
  2. Open your browser and navigate to:  
-       ```    http://localhost:5000    ```  
+       ```    http://localhost:5000    ``` 
+       
  3. Customize content:    - Update the HTML and CSS files in the `templates` and `static` directories 
     to reflect your personal information and style preferences. 
 
