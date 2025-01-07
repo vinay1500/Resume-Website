@@ -34,6 +34,7 @@ Technologies Used
 Getting Started
 
 Installation
+
  1. Clone the repository:    
            ```bash    
               git clone https://github.com/vinay1500/Resume-Website.git    ``` 
@@ -49,6 +50,7 @@ Installation
               pip install -r requirements.txt      ``` 
 
 Usage
+
  1. Run the application:   
        ```bash    python app.py    ```  
        
