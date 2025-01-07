@@ -34,8 +34,12 @@ Technologies Used
 Getting Started
 
 Installation
- 1. Clone the repository:    ```bash    git clone https://github.com/vinay1500/Resume-Website.git    ```  
- 2. Navigate to the project directory:    ```bash    cd Resume-Website    ```  
+ 1. Clone the repository:    
+           ```bash    
+              git clone https://github.com/vinay1500/Resume-Website.git    ```  
+ 2. Navigate to the project directory:    
+           ```bash    
+              cd Resume-Website    ```  
  3. Set up the environment:    
        - Ensure you have Python installed. If not, download and install it from the official website.   
        - Install necessary dependencies (if any):      
