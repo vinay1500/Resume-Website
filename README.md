@@ -74,6 +74,6 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
- Vinay - your.email@example.com 
+ Vinay - vinaygautam1500@gmail.com 
  
  Project Link: https://github.com/vinay1500/Resume-Website 
