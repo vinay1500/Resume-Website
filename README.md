@@ -1,4 +1,3 @@
-$${\color{green}Resume Website}$$	
 Resume Website
 
 Table of Contents
